@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@aave/core-v3": "^1.16.2-beta.1",
+    "@openzeppelin/contracts": "^4.8.0",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "alchemy-sdk": "^2.2.3"
+  }
+}
